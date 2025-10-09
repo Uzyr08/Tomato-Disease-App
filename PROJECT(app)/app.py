@@ -8,7 +8,7 @@ import json
 # === Load model and disease data ===
 model = load_model("PROJECT(app)/model/Model9.h5")
 
-with open("database/disease_info.json", "r") as f:
+with open("PROJECT(app)/database/disease_info.json", "r") as f:
     disease_data = json.load(f)
 
 # === Streamlit Page Config ===
@@ -125,4 +125,5 @@ if uploaded_file is not None:
 
 # === Footer ===
 st.markdown("<div class='footer'>Developed by Uzair | Powered by Streamlit & TensorFlow</div>", unsafe_allow_html=True)
+
 
