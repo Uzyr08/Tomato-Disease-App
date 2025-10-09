@@ -1,0 +1,52 @@
+{
+  "0": {
+    "disease": "Tomato Bacterial Spot",
+    "description": "Caused by Xanthomonas spp., produces dark, angular leaf and fruit spots.",
+    "cure": "Use certified disease-free seed, apply drip irrigation, maintain good spacing and airflow; begin protective sprays of copper + mancozeb or Actigard + copper weekly starting two weeks after transplanting; remove and destroy infected debris."
+  },
+  "1": {
+    "disease": "Tomato Early Blight",
+    "description": "A fungal disease (Alternaria solani) causing bull's eye leaf spots on older foliage.",
+    "cure": "Rotate crops 2-3 years, use resistant/tolerant cultivars, prune lower leaves, mulch, water early with drip irrigation, and apply fungicides such as azoxystrobin, chlorothalonil or copper at 7-14-day intervals from first symptoms."
+  },
+  "2": {
+    "disease": "Tomato Healthy",
+    "description": "No disease—plant is in good health.",
+    "cure": "Continue good cultural practices: proper watering, spacing, rotation, and monitoring to maintain health."
+  },
+  "3": {
+    "disease": "Tomato Late Blight",
+    "description": "Caused by Phytophthora infestans, leads to rapid collapse and water soaked lesions.",
+    "cure": "Plant resistant varieties, remove and destroy infected plants immediately, apply protectant sprays of copper or chlorothalonil weekly during wet, cool weather, disinfect tools and supports."
+  },
+  "4": {
+    "disease": "Tomato Leaf Mold",
+    "description": "Fungal disease producing moldy patches mainly on leaf undersides in humid conditions.",
+    "cure": "Improve airflow by pruning and spacing, avoid overhead watering, apply appropriate fungicides early, and remove infected foliage to reduce humidity."
+  },
+  "5": {
+    "disease": "Tomato Septoria Leaf Spot",
+    "description": "Fungal disease causing small, circular spots with dark edges and light centers on foliage.",
+    "cure": "Rotate crops, mulch, prune for airflow, remove debris, apply fungicides like chlorothalonil or related products on 7-14 day schedule.}"
+  },
+  "6": {
+    "disease": "Tomato Spider mites, Two  spotted spider_mite",
+    "description": "Tiny mites that feed on sap, causing stippling and webbing on leaves.",
+    "cure": "Regularly hose off mites, introduce predatory mites or insects, use horticultural oils or miticides, and avoid plant stress by proper watering and nutrition."
+  },
+  "7": {
+    "disease": "Tomato Target Spot",
+    "description": "Leaf fungal disease forming concentric ringed lesions on foliage.",
+    "cure": "Remove infected leaves, improve airflow, apply fungicides targeted for leaf spot diseases, and rotate crops to reduce inoculum."
+  },
+  "8": {
+    "disease": "Tomato Yellow Leaf Curl Virus",
+    "description": "Viral disease transmitted by whiteflies, causes leaf yellowing, curling and stunting.",
+    "cure": "Control whiteflies using reflective mulch, insecticidal soaps or neem oil, remove infected plants, use resistant varieties, and practice strict sanitation."
+  },
+  "9": {
+    "disease": "Tomato Mosaic Virus",
+    "description": "Stable virus causing mottled, distorted leaves and fruit.",
+    "cure": "Use virus-free seed/transplants, disinfect tools and hands, remove infected plants, and grow resistant varieties; no chemical cure exists."
+  }
+}
